@@ -41,6 +41,7 @@ members = [
     "examples/events",
     "examples/geometry",
     "examples/integration",
+    "examples/long_list",
     "examples/pokedex",
     "examples/progress_bar",
     "examples/stopwatch",
